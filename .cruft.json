@@ -1,0 +1,20 @@
+{
+  "template": "git@github.com:Filip-231/Boilerplate.git",
+  "commit": "773c5023391a4e6c77423d67c26b0a6867187101",
+  "checkout": "master",
+  "context": {
+    "cookiecutter": {
+      "_copy_without_render": [
+        "docs/source/templates",
+        ".github/workflows"
+      ],
+      "package_name": "common_utils",
+      "repo_name": "BP-Test-Package",
+      "author_name": "Your Name",
+      "email": "Your Email",
+      "description": "A short description of the package",
+      "_template": "git@github.com:Filip-231/Boilerplate.git"
+    }
+  },
+  "directory": "templates/package"
+}
